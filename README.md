@@ -1,9 +1,8 @@
 <!--suppress HtmlDeprecatedTag, XmlDeprecatedElement -->
-<center><img alt="mod preview" src="https://upload.wikimedia.org/wikipedia/commons/7/70/Example.png"/></center>
+<center><img alt="mod preview" src="src/main/resources/assets/minepactum/icon.png"/></center>
 
 <center>
-A short quick summary of this mod
-</center>
+Adds pacts to Minecraft: Books that can be signed by multiple players</center>
 
 ---
 
@@ -15,5 +14,5 @@ A long description of your mod, including
 Screenshots of features where possible
 
 ---
-
-A footnote for special thanks, credits, and other shoutouts - including "created at modfest" banners.
+[![Made for ModFest 26	](https://badger-api-staging.worldwidepixel.ca/cozy?gradientStart=a41c5f&gradientEnd=580c36&lineOne=Made%20for&lineTwo=ModFest%2026&colourOne=FFFFFF&colourTwo=fa96c8&iconUrl=https://raw.githubusercontent.com/ModFest/art/5959f93d710deccb28fa8f3d805206bf0ad27a13/icon/svg/26/transparent.svg
+)](https://modfest.net/26)

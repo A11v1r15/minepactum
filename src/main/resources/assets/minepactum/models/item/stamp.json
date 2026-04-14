@@ -1,6 +1,29 @@
 {
-	"parent": "minecraft:item/handheld",
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:item/generated",
 	"textures": {
 		"layer0": "minepactum:item/stamp"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, 0, -180],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 0, -180],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 0, -167],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 0, -167],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"head": {
+			"translation": [0, 13, 0]
+		}
 	}
 }

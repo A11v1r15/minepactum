@@ -28,6 +28,9 @@ public class MinePactumItems {
 		.displayItems((params, output) -> {
 			output.accept(Items.WRITABLE_BOOK);
 			output.accept(MinePactumItems.STAMP);
+			output.accept(MinePactumItems.PACT);
+			output.accept(MinePactumItems.SEALED_PACT);
+			output.accept(MinePactumItems.OFFICIAL_PACT);
 		})
 		.build();
 
@@ -47,6 +50,7 @@ public class MinePactumItems {
 	);
 	public static final WrittenBookItem OFFICIAL_PACT = register("official_pact", WrittenBookItem::new,
 		new Item.Properties()
+			.component(DataComponents.ENCHANTMENT_GLINT_OVERRIDE, true)
 			.stacksTo(16)
 	);
 

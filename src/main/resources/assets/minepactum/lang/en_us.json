@@ -1,5 +1,11 @@
 {
 	"creativeTab.minepactum": "MinePactum",
 	"item.minepactum.stamp": "Stamp",
-	"lore.item.minepactum.stamp": "Used to sign your pacts"
+	"lore.item.minepactum.stamp": "Used to sign your pacts",
+	"item.minepactum.pact": "Pact",
+	"lore.item.minepactum.pact": "A pact signed with a stamp, can't be edited but people can still sign it",
+	"item.minepactum.sealed_pact": "Sealed Pact",
+	"lore.item.minepactum.sealed_pact": "A pact that was sealed, can only be enforced by the action of the players",
+	"item.minepactum.official_pact": "Official Pact",
+	"lore.item.minepactum.official_pact": "A registered pact that can be enforced by mystic forces and have a copy retrievable by a Notary Villager"
 }

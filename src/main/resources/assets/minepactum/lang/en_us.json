@@ -1,2 +1,5 @@
 {
+	"creativeTab.minepactum": "MinePactum",
+	"item.minepactum.stamp": "Stamp",
+	"lore.item.minepactum.stamp": "Used to sign your pacts"
 }

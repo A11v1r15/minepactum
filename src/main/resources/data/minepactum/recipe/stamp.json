@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		" / ",
+		" c ",
+		"LLL"
+	],
+	"key": {
+		"/": "minecraft:stick",
+		"c": "minecraft:copper_ingot",
+		"L": "minecraft:lapis_lazuli"
+	},
+	"result": {
+		"id": "minepactum:stamp",
+		"count": 1
+	}
+}

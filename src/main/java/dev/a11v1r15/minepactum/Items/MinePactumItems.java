@@ -1,5 +1,6 @@
-package dev.a11v1r15.minepactum;
+package dev.a11v1r15.minepactum.Items;
 
+import dev.a11v1r15.minepactum.MinePactum;
 import net.fabricmc.fabric.api.creativetab.v1.FabricCreativeModeTab;
 import net.minecraft.core.Registry;
 import net.minecraft.core.component.DataComponents;
@@ -34,7 +35,7 @@ public class MinePactumItems {
 		})
 		.build();
 
-	public static final Item STAMP = register("stamp", Item::new,
+	public static final Item STAMP = register("stamp", StampItem::new,
 		new Item.Properties()
 			.durability(30)
 			.stacksTo(1)

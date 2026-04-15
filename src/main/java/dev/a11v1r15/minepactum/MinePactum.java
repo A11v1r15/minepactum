@@ -1,5 +1,6 @@
 package dev.a11v1r15.minepactum;
 
+import dev.a11v1r15.minepactum.Items.MinePactumItems;
 import net.fabricmc.api.ModInitializer;
 import net.minecraft.resources.Identifier;
 import org.slf4j.Logger;
